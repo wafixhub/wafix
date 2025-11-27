@@ -1,6 +1,6 @@
 {
   "version": "3.19.3",
-  "download_url": "https://your-domain.com/patch/AshopPatch_1.0.4.zip",
+  "download_url": "https://github.com/wafixhub/wafix/releases/download/V3.19.3/WACRM-WASENDER.testing.3.19.3.rar",
   "changelog": "Fix WA-JS recursion issue and improve stability.",
   "is_forced": false
 }
