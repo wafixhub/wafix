@@ -1,15 +1,15 @@
 {
   "app_name": "WaFIX Hub Patch",
 
-  "current_version": "1.2.3",
+  "current_version": "1.2.4",
 
   "download_url": "https://raw.githubusercontent.com/wafixhub/wafix/refs/heads/main/wafixhub_v1.enc",
 
   "release_key": "2025-12-01_123",
 
-  "update_salt": "RND_1_2_3_XYZ",
+  "update_salt": "RND_1_2_3_XsZ",
 
   "sha256": "PUT_SHA256_HASH_HERE",
 
-  "notes": "Fix for WAPI 3.18.8 + performance improvements."
+  "notes": "Fix for WAFIX_HUB."
 }
